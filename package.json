@@ -1,0 +1,14 @@
+{
+  "name": "hello-js",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A small JavaScript web app for checking container metadata",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node --test",
+    "check": "node --check app.js"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
